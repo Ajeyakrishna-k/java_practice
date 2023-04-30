@@ -1,0 +1,19 @@
+
+m
+java:S1104"RMake bucket a static final constant or non-public and provide accessors if needed.(”„–§ùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øìŒâıÿÿÿÿ
+c	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(µÇºÅùÿÿÿÿ
+c	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(µÇºÅùÿÿÿÿ
+c	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ŒºÃ¨ıÿÿÿÿ
+c	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ŒºÃ¨ıÿÿÿÿ
+=
+java:S1659:""Declare "temp" on a separate line.(‹±„ÿÿÿÿÿ
+7
+java:S1116:"Remove this empty statement.(‹±„ÿÿÿÿÿ
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(ÖûßÙ
+=
+java:S1659i""Declare "temp" on a separate line.(ÓªÒüÿÿÿÿ
+W
+java:S1659|"ADeclare "temp" and all following declarations on a separate line.(Ğá«
+W	java:S125”"<This block of commented-out lines of code should be removed.(…Œ·ğüÿÿÿÿ
+W	java:S125¯"<This block of commented-out lines of code should be removed.(Ú×õ«ùÿÿÿÿ

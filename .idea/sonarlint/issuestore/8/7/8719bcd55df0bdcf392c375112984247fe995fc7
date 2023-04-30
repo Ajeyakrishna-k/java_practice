@@ -1,0 +1,16 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒæÜè
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒæÜè
+e	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä
+k	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğƒğŒøÿÿÿÿ
+k
+java:S1149D"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ
+>
+java:S1172"(Remove this unused method parameter "V".(ŒæÜè
+V	java:S125 "<This block of commented-out lines of code should be removed.(åùûÃùÿÿÿÿ
+m
+java:S3776."RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ù×©úÿÿÿÿ
+V	java:S125W"<This block of commented-out lines of code should be removed.(˜õ•Æşÿÿÿÿ
+N	java:S106o"9Replace this use of System.out or System.err by a logger.(âÎ‚Ş
+S	java:S106r"9Replace this use of System.out or System.err by a logger.(¼ÿ¯Îøÿÿÿÿ
+Q	java:S125x"<This block of commented-out lines of code should be removed.(éÙµí
